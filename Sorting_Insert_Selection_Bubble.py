@@ -80,20 +80,3 @@ while True:
         sys.exit()
     else:
         print("invalid Entry.........Enter valid Option ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
